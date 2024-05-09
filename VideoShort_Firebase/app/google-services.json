@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357720341284",
+    "project_id": "videoshorts-47e13",
+    "storage_bucket": "videoshorts-47e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357720341284:android:a512867ee29890cc1711b1",
+        "android_client_info": {
+          "package_name": "com.example.videoshort_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJyNxPStu4gTBsmmAcXjr_whTJTnyde9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
